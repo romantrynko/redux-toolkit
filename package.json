@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "12.2.5",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "@reduxjs/toolkit": "1.8.1",
+    "next": "9.4.1",
+    "next-redux-wrapper": "7.0.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "7.2.8",
+    "redux": "4.0.5",
+    "redux-devtools-extension": "2.13.8",
+    "redux-thunk": "2.3.0"
   },
   "devDependencies": {
     "eslint": "8.22.0",
